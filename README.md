@@ -46,7 +46,6 @@ This project analyzes the relationship between social media usage, lifestyle fac
 - Correlation Heatmap
 - Box plots comparing features by depression label
 - Count plots (Gender vs Depression)
-- Violin, Strip, Swarm, and Density plots for deeper distribution analysis
 - Bar plots for averages
 
 ---
