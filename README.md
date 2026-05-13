@@ -52,7 +52,7 @@ This project analyzes the relationship between social media usage, lifestyle fac
 
 ## 🛠️ Technologies Used
 
-- **Python** 3.9+
+- **Python** 3.14.5
 - **Pandas** – Data manipulation
 - **NumPy** – Numerical operations
 - **Matplotlib & Seaborn** – Data visualization
